@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-image-url-here.jpg" alt="Profile Banner" width="100%" />
+  <img src="linkedin_profile.jpg" alt="Profile Banner" width="100%" />
 </div>
 
 # 👋 Hello, I'm [Your Name]
