@@ -129,19 +129,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
 ```
-
-I've added `style="margin-right: 12px; margin-bottom: 12px;"` to each table cell (`<td>`) in the Languages and Tools section. This adds:
-- A 12px margin to the right of each tool/language
-- A 12px margin at the bottom of each language
-
-These margins will create better spacing between the icons and text in your GitHub README, making the layout more visually appealing.
-
-<Actions>
-  <Action name="Add custom colors to the icons" description="Customize the color scheme of the language and tool icons" />
-  <Action name="Add skill level indicators" description="Add progress bars or stars to indicate proficiency level for each skill" />
-  <Action name="Create a projects section" description="Add a section showcasing your top projects with screenshots" />
-  <Action name="Add GitHub contribution graph" description="Include your GitHub contribution graph for visual impact" />
-</Actions>
-
-```
-
