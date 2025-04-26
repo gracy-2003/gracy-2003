@@ -28,101 +28,71 @@
 
 ## 💻 Languages and Tools:
 
-<table width="100%" bgcolor="#0a192f" style="border-radius:10px">
-  <tr align="center">
-    <td width="20%" valign="top">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
-        <br/>
-        <strong style="color:white">Java</strong>
-      </a>
-    </td>
-    <td width="20%" valign="top">
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
-        <br/>
-        <strong style="color:white">C++</strong>
-      </a>
-    </td>
-    <td width="20%" valign="top">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-        <br/>
-        <strong style="color:white">Python</strong>
-      </a>
-    </td>
-    <td width="20%" valign="top">
-      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="60"/>
-        <br/>
-        <strong style="color:white">Kotlin</strong>
-      </a>
-    </td>
-    <td width="20%" valign="top">
-      <a href="https://dart.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/>
-        <br/>
-        <strong style="color:white">Dart</strong>
-      </a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td width="20%" valign="top">
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/>
-        <br/>
-        <strong style="color:white">Android</strong>
-      </a>
-    </td>
-    <td width="20%" valign="top">
-      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/>
-        <br/>
-        <strong style="color:white">Flutter</strong>
-      </a>
-    </td>
-    <td width="20%" valign="top">
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
-        <br/>
-        <strong style="color:white">Firebase</strong>
-      </a>
-    </td>
-    <td width="20%" valign="top">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-        <br/>
-        <strong style="color:white">HTML</strong>
-      </a>
-    </td>
-    <td width="20%" valign="top">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-        <br/>
-        <strong style="color:white">CSS</strong>
-      </a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td width="20%" valign="top">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-        <br/>
-        <strong style="color:white">JavaScript</strong>
-      </a>
-    </td>
-    <td width="20%" valign="top">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
-        <br/>
-        <strong style="color:white">MongoDB</strong>
-      </a>
-    </td>
-    <td width="20%" valign="top"></td>
-    <td width="20%" valign="top"></td>
-    <td width="20%" valign="top"></td>
-  </tr>
-</table>
+<p align="center" style="display: flex; justify-content: space-between; width: 100%;">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
+    <br/>
+    <strong>Java</strong>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
+    <br/>
+    <strong>C++</strong>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+    <br/>
+    <strong>Python</strong>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="60"/>
+    <br/>
+    <strong>Kotlin</strong>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/>
+    <br/>
+    <strong>Dart</strong>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/>
+    <br/>
+    <strong>Flutter</strong>
+  </a>
+</p>
+
+<p align="center" style="display: flex; justify-content: space-between; width: 100%;">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/>
+    <br/>
+    <strong>Android</strong>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
+    <br/>
+    <strong>Firebase</strong>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+    <br/>
+    <strong>HTML</strong>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
+    <br/>
+    <strong>CSS</strong>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+    <br/>
+    <strong>JavaScript</strong>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
+    <br/>
+    <strong>MongoDB</strong>
+  </a>
+</p>
 
 ## 📊 GitHub Stats:
 
@@ -143,32 +113,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
-```
-
-Since GitHub's Markdown has limited styling capabilities, I've created a table-based layout that should work well on GitHub. Here's what I've done:
-
-1. Created a table with 5 columns per row (20% width each)
-2. Each cell contains:
-   - A clickable link to the language/tool's official website
-   - The icon image for the language/tool
-   - The name of the language/tool below the icon
-
-3. Organized the languages in rows of 5:
-   - Row 1: Java, C++, Python, Kotlin, Dart
-   - Row 2: Android, Flutter, Firebase, HTML, CSS
-   - Row 3: JavaScript, MongoDB (with 3 empty cells)
-
-4. Each language is a clickable link that will take visitors to the official website for that language or tool
-
-This layout should provide equal spacing between the languages and maintain a clean, organized appearance on your GitHub profile. The links will allow visitors to learn more about each technology by clicking on them.
-
-<Actions>
-  <Action name="Add custom box styling" description="Add custom styling to make each language box stand out more" />
-  <Action name="Add more languages" description="Add additional programming languages to fill the empty cells" />
-  <Action name="Add projects section" description="Include a section showcasing your Flutter projects" />
-  <Action name="Add education details" description="Include your education information" />
-  <Action name="Add hover effects" description="Add hover effects to the language boxes (using HTML)" />
-</Actions>
-
-```
-
