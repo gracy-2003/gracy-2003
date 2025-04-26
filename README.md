@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Gracy Srivastava
 
-## A passionate Flutter Developer from India
+## A passionate Software Developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gracy-2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -12,10 +12,10 @@
 
 ## 💫 About Me
 
-- 🔭 I'm currently working on **Flutter Applications**
-- 🌱 I'm currently learning **Flutter, Dart, Firebase**
+- 🔭 I'm currently working on **RTSP Video App**
+- 🌱 I'm currently learning **Flutter**
 - 💬 Ask me about **Flutter, Dart, Mobile App Development**
-- 📫 How to reach me: **gracypatel2003@gmail.com**
+- 📫 How to reach me: **gracysrivastava2003@gmail.com**
 - ⚡ Fun fact: **I love creating beautiful and responsive UI designs**
 
 ## 🌐 Connect with me:
