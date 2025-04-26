@@ -28,72 +28,20 @@
 
 ## 💻 Languages and Tools:
 
-<table width="100%" bgcolor="#0a1929" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" width="16.66%" style="border: none; padding: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java" />
-      <br />
-      <span style="color: white; font-weight: bold;">Java</span>
-    </td>
-    <td align="center" width="16.66%" style="border: none; padding: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" />
-      <br />
-      <span style="color: white; font-weight: bold;">C++</span>
-    </td>
-    <td align="center" width="16.66%" style="border: none; padding: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" />
-      <br />
-      <span style="color: white; font-weight: bold;">Python</span>
-    </td>
-    <td align="center" width="16.66%" style="border: none; padding: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" height="60" alt="Kotlin" />
-      <br />
-      <span style="color: white; font-weight: bold;">Kotlin</span>
-    </td>
-    <td align="center" width="16.66%" style="border: none; padding: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60" alt="Dart" />
-      <br />
-      <span style="color: white; font-weight: bold;">Dart</span>
-    </td>
-    <td align="center" width="16.66%" style="border: none; padding: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="60" height="60" alt="Android" />
-      <br />
-      <span style="color: white; font-weight: bold;">Android</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="16.66%" style="border: none; padding: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" alt="Flutter" />
-      <br />
-      <span style="color: white; font-weight: bold;">Flutter</span>
-    </td>
-    <td align="center" width="16.66%" style="border: none; padding: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" alt="Firebase" />
-      <br />
-      <span style="color: white; font-weight: bold;">Firebase</span>
-    </td>
-    <td align="center" width="16.66%" style="border: none; padding: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML" />
-      <br />
-      <span style="color: white; font-weight: bold;">HTML</span>
-    </td>
-    <td align="center" width="16.66%" style="border: none; padding: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS" />
-      <br />
-      <span style="color: white; font-weight: bold;">CSS</span>
-    </td>
-    <td align="center" width="16.66%" style="border: none; padding: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
-      <br />
-      <span style="color: white; font-weight: bold;">JavaScript</span>
-    </td>
-    <td align="center" width="16.66%" style="border: none; padding: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
-      <br />
-      <span style="color: white; font-weight: bold;">MongoDB</span>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</div>
 
 ## 📊 GitHub Stats:
 
