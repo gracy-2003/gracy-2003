@@ -31,37 +31,37 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="96">
+<td align="center" width="96" style="margin-right: 12px; margin-bottom: 12px;">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
 </a>
 <br>Java
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="margin-right: 12px; margin-bottom: 12px;">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
 </a>
 <br>C++
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="margin-right: 12px; margin-bottom: 12px;">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
 </a>
 <br>Python
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="margin-right: 12px; margin-bottom: 12px;">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
 </a>
 <br>Kotlin
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="margin-right: 12px; margin-bottom: 12px;">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
 </a>
 <br>Dart
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="margin-right: 12px; margin-bottom: 12px;">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android" />
 </a>
@@ -69,37 +69,37 @@
 </td>
 </tr>
 <tr>
-<td align="center" width="96">
+<td align="center" width="96" style="margin-right: 12px; margin-bottom: 12px;">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
 </a>
 <br>Flutter
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="margin-right: 12px; margin-bottom: 12px;">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
 </a>
 <br>Firebase
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="margin-right: 12px; margin-bottom: 12px;">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
 </a>
 <br>HTML
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="margin-right: 12px; margin-bottom: 12px;">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
 </a>
 <br>CSS
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="margin-right: 12px; margin-bottom: 12px;">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
 </a>
 <br>JavaScript
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="margin-right: 12px; margin-bottom: 12px;">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
 </a>
@@ -128,3 +128,20 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
+```
+
+I've added `style="margin-right: 12px; margin-bottom: 12px;"` to each table cell (`<td>`) in the Languages and Tools section. This adds:
+- A 12px margin to the right of each tool/language
+- A 12px margin at the bottom of each language
+
+These margins will create better spacing between the icons and text in your GitHub README, making the layout more visually appealing.
+
+<Actions>
+  <Action name="Add custom colors to the icons" description="Customize the color scheme of the language and tool icons" />
+  <Action name="Add skill level indicators" description="Add progress bars or stars to indicate proficiency level for each skill" />
+  <Action name="Create a projects section" description="Add a section showcasing your top projects with screenshots" />
+  <Action name="Add GitHub contribution graph" description="Include your GitHub contribution graph for visual impact" />
+</Actions>
+
+```
+
