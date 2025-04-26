@@ -28,71 +28,122 @@
 
 ## 💻 Languages and Tools:
 
-<p align="center" style="display: flex; justify-content: space-between; width: 100%;">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
-    <br/>
-    <strong>Java</strong>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
-    <br/>
-    <strong>C++</strong>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-    <br/>
-    <strong>Python</strong>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="60"/>
-    <br/>
-    <strong>Kotlin</strong>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/>
-    <br/>
-    <strong>Dart</strong>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/>
-    <br/>
-    <strong>Flutter</strong>
-  </a>
-</p>
-
-<p align="center" style="display: flex; justify-content: space-between; width: 100%;">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/>
-    <br/>
-    <strong>Android</strong>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
-    <br/>
-    <strong>Firebase</strong>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-    <br/>
-    <strong>HTML</strong>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-    <br/>
-    <strong>CSS</strong>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-    <br/>
-    <strong>JavaScript</strong>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="width: 16.66%; text-align: center; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
-    <br/>
-    <strong>MongoDB</strong>
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
+          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+            <br />
+            <span style="color: white;">Java</span>
+          </div>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+            <br />
+            <span style="color: white;">C++</span>
+          </div>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
+          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+            <br />
+            <span style="color: white;">Python</span>
+          </div>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://kotlinlang.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
+          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
+            <br />
+            <span style="color: white;">Kotlin</span>
+          </div>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://dart.dev" target="_blank" rel="noreferrer" style="text-decoration: none;">
+          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
+            <br />
+            <span style="color: white;">Dart</span>
+          </div>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
+          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android" />
+            <br />
+            <span style="color: white;">Android</span>
+          </div>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="text-decoration: none;">
+          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
+            <br />
+            <span style="color: white;">Flutter</span>
+          </div>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+            <br />
+            <span style="color: white;">Firebase</span>
+          </div>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+            <br />
+            <span style="color: white;">HTML</span>
+          </div>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+            <br />
+            <span style="color: white;">CSS</span>
+          </div>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
+          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+            <br />
+            <span style="color: white;">JavaScript</span>
+          </div>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+            <br />
+            <span style="color: white;">MongoDB</span>
+          </div>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📊 GitHub Stats:
 
