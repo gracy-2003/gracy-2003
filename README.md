@@ -28,121 +28,55 @@
 
 ## 💻 Languages and Tools:
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-            <br />
-            <span style="color: white;">Java</span>
-          </div>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-            <br />
-            <span style="color: white;">C++</span>
-          </div>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-            <br />
-            <span style="color: white;">Python</span>
-          </div>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://kotlinlang.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
-            <br />
-            <span style="color: white;">Kotlin</span>
-          </div>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://dart.dev" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
-            <br />
-            <span style="color: white;">Dart</span>
-          </div>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android" />
-            <br />
-            <span style="color: white;">Android</span>
-          </div>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-            <br />
-            <span style="color: white;">Flutter</span>
-          </div>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
-            <br />
-            <span style="color: white;">Firebase</span>
-          </div>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-            <br />
-            <span style="color: white;">HTML</span>
-          </div>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-            <br />
-            <span style="color: white;">CSS</span>
-          </div>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-            <br />
-            <span style="color: white;">JavaScript</span>
-          </div>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <div style="background-color: #0a1929; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 90px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-            <br />
-            <span style="color: white;">MongoDB</span>
-          </div>
-        </a>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%; margin: 0 auto;">
+  <div style="display: inline-block; width: 120px; background-color: #0a1929; border-radius: 8px; padding: 20px; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+    <p style="color: white; margin-top: 10px; margin-bottom: 0;">Java</p>
+  </div>
+  <div style="display: inline-block; width: 120px; background-color: #0a1929; border-radius: 8px; padding: 20px; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
+    <p style="color: white; margin-top: 10px; margin-bottom: 0;">C++</p>
+  </div>
+  <div style="display: inline-block; width: 120px; background-color: #0a1929; border-radius: 8px; padding: 20px; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+    <p style="color: white; margin-top: 10px; margin-bottom: 0;">Python</p>
+  </div>
+  <div style="display: inline-block; width: 120px; background-color: #0a1929; border-radius: 8px; padding: 20px; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" alt="Kotlin" />
+    <p style="color: white; margin-top: 10px; margin-bottom: 0;">Kotlin</p>
+  </div>
+  <div style="display: inline-block; width: 120px; background-color: #0a1929; border-radius: 8px; padding: 20px; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" alt="Dart" />
+    <p style="color: white; margin-top: 10px; margin-bottom: 0;">Dart</p>
+  </div>
+  <div style="display: inline-block; width: 120px; background-color: #0a1929; border-radius: 8px; padding: 20px; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" alt="Android" />
+    <p style="color: white; margin-top: 10px; margin-bottom: 0;">Android</p>
+  </div>
+  <div style="display: inline-block; width: 120px; background-color: #0a1929; border-radius: 8px; padding: 20px; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter" />
+    <p style="color: white; margin-top: 10px; margin-bottom: 0;">Flutter</p>
+  </div>
+  <div style="display: inline-block; width: 120px; background-color: #0a1929; border-radius: 8px; padding: 20px; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase" />
+    <p style="color: white; margin-top: 10px; margin-bottom: 0;">Firebase</p>
+  </div>
+  <div style="display: inline-block; width: 120px; background-color: #0a1929; border-radius: 8px; padding: 20px; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" />
+    <p style="color: white; margin-top: 10px; margin-bottom: 0;">HTML</p>
+  </div>
+  <div style="display: inline-block; width: 120px; background-color: #0a1929; border-radius: 8px; padding: 20px; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
+    <p style="color: white; margin-top: 10px; margin-bottom: 0;">CSS</p>
+  </div>
+  <div style="display: inline-block; width: 120px; background-color: #0a1929; border-radius: 8px; padding: 20px; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+    <p style="color: white; margin-top: 10px; margin-bottom: 0;">JavaScript</p>
+  </div>
+  <div style="display: inline-block; width: 120px; background-color: #0a1929; border-radius: 8px; padding: 20px; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
+    <p style="color: white; margin-top: 10px; margin-bottom: 0;">MongoDB</p>
+  </div>
 </div>
 
 ## 📊 GitHub Stats:
